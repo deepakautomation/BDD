@@ -237,7 +237,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 16431507510,
+  "duration": 14320101239,
   "status": "passed"
 });
 formatter.scenario({
@@ -272,32 +272,32 @@ formatter.match({
   "location": "MeritnationHomePage.verify_that_user_is_on_meritnation_HomePage()"
 });
 formatter.result({
-  "duration": 302521263,
+  "duration": 286722623,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationHomePage.verify_the_Create_Account_button_is_present()"
 });
 formatter.result({
-  "duration": 21847077,
+  "duration": 49692245,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationHomePage.user_click_on_Login_link()"
 });
 formatter.result({
-  "duration": 197073403,
+  "duration": 188708162,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationHomePage.user_should_be_navigated_to_LoginPage()"
 });
 formatter.result({
-  "duration": 89057005,
+  "duration": 90273861,
   "status": "passed"
 });
 formatter.after({
-  "duration": 936123625,
+  "duration": 937346880,
   "status": "passed"
 });
 formatter.uri("LoginPage.feature");
@@ -370,7 +370,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 15619959245,
+  "duration": 13392501150,
   "status": "passed"
 });
 formatter.background({
@@ -404,28 +404,28 @@ formatter.match({
   "location": "MeritnationHomePage.verify_that_user_is_on_meritnation_HomePage()"
 });
 formatter.result({
-  "duration": 199322367,
+  "duration": 206358965,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationHomePage.verify_the_Create_Account_button_is_present()"
 });
 formatter.result({
-  "duration": 26974766,
+  "duration": 20208248,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationHomePage.user_click_on_Login_link()"
 });
 formatter.result({
-  "duration": 209932732,
+  "duration": 165437296,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationHomePage.user_should_be_navigated_to_LoginPage()"
 });
 formatter.result({
-  "duration": 87876417,
+  "duration": 185764583,
   "status": "passed"
 });
 formatter.scenario({
@@ -464,7 +464,7 @@ formatter.match({
   "location": "MeritnationLoginPage.user_is_on_login_page()"
 });
 formatter.result({
-  "duration": 40221509,
+  "duration": 57516044,
   "status": "passed"
 });
 formatter.match({
@@ -481,29 +481,29 @@ formatter.match({
   "location": "MeritnationLoginPage.user_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 532273548,
+  "duration": 499415039,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationLoginPage.click_on_login_button()"
 });
 formatter.result({
-  "duration": 142826910,
+  "duration": 138334530,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationLoginPage.user_should_be_navigated_to_UserPage()"
 });
 formatter.result({
-  "duration": 76800,
+  "duration": 4478691377,
   "status": "passed"
 });
 formatter.after({
-  "duration": 855627274,
+  "duration": 857231543,
   "status": "passed"
 });
 formatter.before({
-  "duration": 15537097450,
+  "duration": 13271172730,
   "status": "passed"
 });
 formatter.background({
@@ -537,28 +537,28 @@ formatter.match({
   "location": "MeritnationHomePage.verify_that_user_is_on_meritnation_HomePage()"
 });
 formatter.result({
-  "duration": 200538369,
+  "duration": 196797776,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationHomePage.verify_the_Create_Account_button_is_present()"
 });
 formatter.result({
-  "duration": 20363981,
+  "duration": 23503400,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationHomePage.user_click_on_Login_link()"
 });
 formatter.result({
-  "duration": 195948281,
+  "duration": 211794708,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationHomePage.user_should_be_navigated_to_LoginPage()"
 });
 formatter.result({
-  "duration": 103139589,
+  "duration": 87500096,
   "status": "passed"
 });
 formatter.scenario({
@@ -597,7 +597,7 @@ formatter.match({
   "location": "MeritnationLoginPage.user_is_on_login_page()"
 });
 formatter.result({
-  "duration": 40510363,
+  "duration": 118251722,
   "status": "passed"
 });
 formatter.match({
@@ -614,25 +614,25 @@ formatter.match({
   "location": "MeritnationLoginPage.user_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 459499878,
+  "duration": 495125752,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationLoginPage.click_on_login_button()"
 });
 formatter.result({
-  "duration": 148025853,
+  "duration": 133717988,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationLoginPage.user_should_be_navigated_to_UserPage()"
 });
 formatter.result({
-  "duration": 32426,
+  "duration": 5826261464,
   "status": "passed"
 });
 formatter.after({
-  "duration": 854996660,
+  "duration": 862936939,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -689,7 +689,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 15350886572,
+  "duration": 13401048151,
   "status": "passed"
 });
 formatter.background({
@@ -723,28 +723,28 @@ formatter.match({
   "location": "MeritnationHomePage.verify_that_user_is_on_meritnation_HomePage()"
 });
 formatter.result({
-  "duration": 199337727,
+  "duration": 201305517,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationHomePage.verify_the_Create_Account_button_is_present()"
 });
 formatter.result({
-  "duration": 21356837,
+  "duration": 20457422,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationHomePage.user_click_on_Login_link()"
 });
 formatter.result({
-  "duration": 215285274,
+  "duration": 215830981,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationHomePage.user_should_be_navigated_to_LoginPage()"
 });
 formatter.result({
-  "duration": 76532610,
+  "duration": 100121344,
   "status": "passed"
 });
 formatter.scenario({
@@ -783,7 +783,7 @@ formatter.match({
   "location": "MeritnationLoginPage.user_is_on_login_page()"
 });
 formatter.result({
-  "duration": 99686144,
+  "duration": 103202737,
   "status": "passed"
 });
 formatter.match({
@@ -800,25 +800,25 @@ formatter.match({
   "location": "MeritnationLoginPage.user_enters_and(String,String)"
 });
 formatter.result({
-  "duration": 484010640,
+  "duration": 588760898,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationLoginPage.click_on_login_button()"
 });
 formatter.result({
-  "duration": 156548107,
+  "duration": 143770698,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationLoginPage.user_should_be_navigated_to_the_same_page()"
 });
 formatter.result({
-  "duration": 59734,
+  "duration": 100693,
   "status": "passed"
 });
 formatter.after({
-  "duration": 918600394,
+  "duration": 806963724,
   "status": "passed"
 });
 formatter.uri("UserPage.feature");
@@ -1060,7 +1060,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 14634320869,
+  "duration": 13785712275,
   "status": "passed"
 });
 formatter.background({
@@ -1104,21 +1104,21 @@ formatter.match({
   "location": "MeritnationHomePage.verify_that_user_is_on_meritnation_HomePage()"
 });
 formatter.result({
-  "duration": 213609752,
+  "duration": 311253865,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationHomePage.user_click_on_Login_link()"
 });
 formatter.result({
-  "duration": 213880685,
+  "duration": 279862665,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationHomePage.user_should_be_navigated_to_LoginPage()"
 });
 formatter.result({
-  "duration": 153587462,
+  "duration": 197441190,
   "status": "passed"
 });
 formatter.match({
@@ -1135,21 +1135,21 @@ formatter.match({
   "location": "MeritnationLoginPage.user_enters_in_username_and_in_password(String,String)"
 });
 formatter.result({
-  "duration": 455152137,
+  "duration": 612521152,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationLoginPage.click_on_login_button()"
 });
 formatter.result({
-  "duration": 144326646,
+  "duration": 173694590,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationLoginPage.user_should_be_navigated_to_UserPage()"
 });
 formatter.result({
-  "duration": 32853,
+  "duration": 4882544440,
   "status": "passed"
 });
 formatter.scenario({
@@ -1174,18 +1174,18 @@ formatter.match({
   "location": "MeritnationLoginPage.user_should_be_navigated_to_UserPage()"
 });
 formatter.result({
-  "duration": 24320,
+  "duration": 22935079,
   "status": "passed"
 });
 formatter.match({
   "location": "MeritnationUserPage.verify_user_has_successfully_logged_in()"
 });
 formatter.result({
-  "duration": 154454,
+  "duration": 19138593,
   "status": "passed"
 });
 formatter.after({
-  "duration": 911878250,
+  "duration": 824701141,
   "status": "passed"
 });
 });
