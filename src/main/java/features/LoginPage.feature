@@ -16,7 +16,7 @@ Feature: Test meritnation LoginPage
       | sunaina@test.com | 12345678 |
       | deepak@test.com  | 12345678 |
       
-      
+  @negative   
   Scenario Outline: Verify that user unsuccessfully login to the application when entering invalid details
     Given user is on login page
     When User enters "<Username>" and "<Password>"

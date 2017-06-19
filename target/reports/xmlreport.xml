@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="416.152255">
+<testcase classname="Test meritnation homepage" name="Test login with valid credentials" time="50.705878">
+<system-out><![CDATA[Given Verify that user is on meritnation HomePage...........................passed
+And verify the Create Account button is present.............................passed
+When User click on Login link...............................................passed
+Then User should be navigated to LoginPage..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test meritnation LoginPage" name="Verify that user successfully login to the application" time="98.785036">
+<system-out><![CDATA[Given Verify that user is on meritnation HomePage...........................passed
+And verify the Create Account button is present.............................passed
+When User click on Login link...............................................passed
+Then User should be navigated to LoginPage..................................passed
+Given user is on login page.................................................passed
+When User enters "sunaina@test.com" and "12345678"..........................passed
+And click on login button...................................................passed
+Then User should be navigated to UserPage...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test meritnation LoginPage" name="Verify that user successfully login to the application 2" time="115.027212">
+<system-out><![CDATA[Given Verify that user is on meritnation HomePage...........................passed
+And verify the Create Account button is present.............................passed
+When User click on Login link...............................................passed
+Then User should be navigated to LoginPage..................................passed
+Given user is on login page.................................................passed
+When User enters "deepak@test.com" and "12345678"...........................passed
+And click on login button...................................................passed
+Then User should be navigated to UserPage...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test meritnation LoginPage" name="Verify that user unsuccessfully login to the application when entering invalid details" time="47.644358">
+<system-out><![CDATA[Given Verify that user is on meritnation HomePage...........................passed
+And verify the Create Account button is present.............................passed
+When User click on Login link...............................................passed
+Then User should be navigated to LoginPage..................................passed
+Given user is on login page.................................................passed
+When User enters "sunaina@test.com" and "1234567"...........................passed
+And click on login button...................................................passed
+Then User should be navigated to the same page..............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test meritnation userpage" name="Test the correct userpage is displayed" time="103.989771">
+<system-out><![CDATA[Given Verify that user is on meritnation HomePage...........................passed
+And User click on Login link................................................passed
+And User should be navigated to LoginPage...................................passed
+When User enters "sunaina@test.com" in username and "12345678" in password..passed
+And click on login button...................................................passed
+Then User should be navigated to UserPage...................................passed
+Given User should be navigated to UserPage..................................passed
+Then verify user has successfully logged in.................................passed
+]]></system-out>
+</testcase>
+</testsuite>
